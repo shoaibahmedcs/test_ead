@@ -20,7 +20,7 @@ function MyFirstApp(){
 
   function clicked(){
     // setToggle(!toggle);
-    setBg(prev => prev==="green" ? "blue" : "green");
+    setBg(prev => prev==="pink" ? "purple" : "pink");
   }
   
 
