@@ -46,7 +46,7 @@ function Timer(){
   // return () => clearInterval(timerId); 
   // },[])
   const names = [
-    "Alice", "Bob", "Charlie", "Diana", "Edward", "Fatima", "George", "Hannah", "Ivan", "Julia", "Kevin", "Laura", "Michael", "Nora", "Oscar", "Priya", "Quinn", "Haseeb", "Samuel", "Tina", "Usman", "Victoria", "William", "Xena", "Yusuf", "Zara", "Ahmed", "Bella", "Carlos", "Daisy","Shoaib"
+    "ABC", "DEF", "Charlie", "Diana", "Edward", "Fatima", "George", "Hannah", "Ivan", "Julia", "Kevin", "Laura", "Michael", "Nora", "Oscar", "Priya", "Quinn", "Haseeb", "Samuel", "Tina", "Usman", "Victoria", "William", "Xena", "Yusuf", "Zara", "Ahmed", "Bella", "Carlos", "Daisy","Shoaib"
   ]
   
   return (<center>
